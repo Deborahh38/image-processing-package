@@ -1,0 +1,14 @@
+project_name/
+    README.md
+    setup.py
+    requirements.txt
+        package_name/
+        _init_.py
+        module1_name/
+            init__.py
+        file1_name.py
+        file2_name.py
+    module2_name/
+        init__.py
+        filel_name.py
+        file2_name.py 
